@@ -1,6 +1,6 @@
 # Business insight from text mining and word frequency calculations
 
-In this project, I am an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager. My job is to give advice/insights to these individuals based on the analysis of social media conversations. 
+In this project, I'm an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager. My job is to give advice/insights to these individuals based on the analysis of social media conversations. 
 
 Particularly, I am trying to answer following 4 questions through this project:
 
