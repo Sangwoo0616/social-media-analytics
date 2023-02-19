@@ -2,7 +2,7 @@
 
 In this project, I'm an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager. My job is to give advice/insights to these individuals based on the analysis of social media conversations. 
 
-Particularly, I am trying to answer following 4 questions through this project:
+Particularly, I'm trying to answer following 4 questions through this project:
 
 1. The top 5 brands from the forum messages by calculating frequency counts.
 2. The top 3 brand pairs which get mentioned together the most.
